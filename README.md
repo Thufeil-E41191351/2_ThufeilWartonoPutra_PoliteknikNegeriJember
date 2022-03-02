@@ -1,0 +1,2 @@
+# 2_ThufeilWartonoPutra_PoliteknikNegeriJember
+Latihan membuat repository
